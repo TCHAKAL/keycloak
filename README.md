@@ -1,4 +1,4 @@
-# keylock
+# keycloak
 Demo for Spring boot &amp; Keylock
 
 First of all you nedd an envirnement of a keycloak for tha we will need a docker image
