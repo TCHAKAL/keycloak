@@ -1,7 +1,7 @@
 # keycloak
 Demo for Spring boot &amp; Keylock
 
-First of all you nedd an envirnement of a keycloak for tha we will need a docker image
+First of all you need an envirnement of a keycloak; for that we will need to install a docker image
   Docker cmd for Keyclock : docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:22.0.0 start-dev
   Keyclock will be started at port 8080 ! 
 
